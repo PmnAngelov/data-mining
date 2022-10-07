@@ -19,3 +19,23 @@ The ship's crew represents 40.32% of all people or 885 people. Of these, 862 (97
 
 Of all the people on board, 1490 (67.70%) died and only 711 (32.30%) people managed to save themselves. Of the survivors, 367 (51.62%) were male and 344 (48.38%) were female. This information is visible after adding Data Info and Data Table and Distributions to visualize the data.
 
+First, the following setting are applied, (Sampling)–stratified random sampling (training set size 75%):
+
+<p align="center">
+<img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c5.PNG"/>
+</p>
+
+The ROC analysis displays quality of the 3 classifiers:
+
+<p align="center">
+<img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c6.PNG/>
+</p>
+
+
+
+<p align="center">
+<img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c6.5.PNG"/>
+</p>
+
+
+
