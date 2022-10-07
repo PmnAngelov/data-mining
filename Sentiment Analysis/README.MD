@@ -2,6 +2,10 @@ Sentiment Analysis
 
 Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text.
 
+<p align="center">
+<img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Sentiment%20Analysis/imgs/7.PNG" />
+</p>
+
 Using the Corpus operator, the movie_reviews.tab file is loaded. The dataset file contains movie reviews in text form. Preprocess Text operator is added to process the text data. Text is converted to lowercase, tokenized, and stopwords and punctuation are filtered out. 
 
 <p align="center">
