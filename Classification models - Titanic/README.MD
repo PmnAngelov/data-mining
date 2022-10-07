@@ -25,7 +25,7 @@ First, the following setting are applied, (Sampling)–stratified random samplin
 <img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c5.PNG"/>
 </p>
 
-The ROC analysis displays quality of the 3 classifiers:
+The ROC analysis displays the quality of the 3 classifiers:
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c6.PNG"/>
