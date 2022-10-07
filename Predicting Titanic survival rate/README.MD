@@ -1,4 +1,4 @@
-#Supervised Machine Learning - Classification model used for predicting whether passanger onboard of Titanic survived or not.
+Supervised Machine Learning - Classification model used for predicting whether passanger onboard of Titanic survived or not.
 
 The dataset used is Titanic and the data inside it is about the passengers of the Titanic ship. It is in 2201 rows and 4 columns. It contains 4 attributes:
 
