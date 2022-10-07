@@ -38,7 +38,7 @@ In the following step, I am creating a Bag of Words associated with Select Colum
 <img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Sentiment%20Analysis/imgs/6.PNG" />
 </p>
 
-Finally, I add Confusion Matrix and ROC Analysis as means of comparison between the models.
+Finally, I add Confusion Matrix and ROC Analysis as means of comparison between the classification models.
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Sentiment%20Analysis/imgs/7.PNG" />
