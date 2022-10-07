@@ -9,7 +9,7 @@ The dataset used is Titanic and the data inside it is about the passengers of th
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Predicting%20Titanic%20survival%20rate/imgs/c4.PNG"/>
+<img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c4.PNG"/>
 </p>
 
 There are a total of 2,201 passengers and 95.5% of them are adults, or more precisely 109 (4.95%) are children, and the remaining 2,092 are adults. The passengers consist of 78.65% (1731) men and 21.35% (470) women. The children on board are divided into 45 (41.28%) girls and 64 (58.72%) boys. Of them, 57 (52.29%) survived, and the remaining 52 (47.71%) died.
