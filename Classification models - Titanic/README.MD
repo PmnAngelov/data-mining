@@ -31,7 +31,7 @@ The ROC analysis displays quality of the 3 classifiers:
 <img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c6.PNG/>
 </p>
 
-
+A look at the Confusion Matrix shows that the Tree is the most accurate - getting it wrong 1191 times and guessing correctly 4319 times out of a total of 5510 attempts to predict whether the passanger survives. The neural network, similarly, was wrong 1205 times and guessed 4305 times accordingly. kNN - was wrong 1605 times and guessed 3905.
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/data-mining/blob/main/Classification%20models%20-%20Titanic/imgs/c6.5.PNG"/>
