@@ -1,7 +1,7 @@
 **Supervised Machine Learning - Classification models** 
 
 
-Tree model are being tested: Decision Tree, kNN, Neural Network, for predicting whether passanger onboard of Titanic survived or not. The dataset used is Titanic and the data inside it is about the passengers of the Titanic ship. It is in 2201 rows and 4 columns. It contains 4 attributes:
+Three models are being tested: Decision Tree, kNN, Neural Network, for predicting whether passanger onboard of Titanic survived or not. The dataset used is Titanic and the data inside it is about the passengers of the Titanic ship. It is in 2201 rows and 4 columns. It contains 4 attributes:
 
 • Survived – yes/no
 • Class – First/Second/Third/Crew
