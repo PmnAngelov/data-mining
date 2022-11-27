@@ -1,4 +1,4 @@
-# data-mining
+# Data Mining
 Data mining models made with Orange
 
 <p align="center">
